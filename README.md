@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Constanza</h1>
-<h3 align="center">A passionate data scientist and python developer from Chile 🇨🇱</h3>
+<h3 align="center">A Passionate Data Scientist and Python Developer from Chile 🇨🇱</h3>
 
 - 🔭 I’m currently working on **a semiparametric model for respiratory diseases based on contamination levels**
 

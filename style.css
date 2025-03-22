@@ -51,7 +51,7 @@ body {
     background-color: #45a049;
 }
 
-body:has(.buttons) {
+body.homepage {
     display: flex;
     justify-content: center;
     align-items: center;
